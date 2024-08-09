@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soil7
 - 👀 I’m interested in ...soil and data science
 - 🌱 I’m currently learning ...machine learning models
-- 💞️ I’m looking to collaborate on ...macj=hine learning
+- 💞️ I’m looking to collaborate on ...machine learning
   
 
 <!---
